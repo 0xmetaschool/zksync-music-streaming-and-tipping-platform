@@ -1,4 +1,4 @@
-import zkTune from "../ABI/ZkTune.json";
+import zkTune from "../ABI/zkTune.json";
 import { utils } from "zksync-ethers";
 
 export const zkTuneABI = zkTune;
